@@ -1,0 +1,4 @@
+eggs	7	50
+chocolate	35	20
+yoghurt	66	25
+milk	25	20
